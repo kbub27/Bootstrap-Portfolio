@@ -1,0 +1,22 @@
+body {
+    background: Grey;
+}
+
+.navbar-nav {
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.nav-row {
+    width: 100%;
+}
+
+#bg-white {
+    background: white;
+}
+
+#bg-teal {
+    background: teal;
+    padding-right: 10px;
+    padding-left: 10px;
+}
